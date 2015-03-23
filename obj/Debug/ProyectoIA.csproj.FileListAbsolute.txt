@@ -1,0 +1,8 @@
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\ProyectoIA.exe.config
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\ProyectoIA.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\ProyectoIA.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\ProyectoIA.Properties.Resources.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\ProyectoIA.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\ProyectoIA.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\ProyectoIA.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\ProyectoIA.RedNeuronal.resources

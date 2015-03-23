@@ -1,0 +1,33 @@
+C:\Users\usuario\Desktop\BPSimplified\bin\Debug\BPSimplified.exe.config
+C:\Users\usuario\Desktop\BPSimplified\bin\Debug\BPSimplified.exe
+C:\Users\usuario\Desktop\BPSimplified\bin\Debug\BPSimplified.pdb
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.NeuralDemo.resources
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.Properties.Resources.resources
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.exe
+C:\Users\usuario\Desktop\BPSimplified\obj\Debug\BPSimplified.pdb
+F:\Nueva carpeta (2)\BPSimplified\bin\Debug\BPSimplified.exe.config
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.exe
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.pdb
+F:\Nueva carpeta (2)\BPSimplified\bin\Debug\BPSimplified.exe
+F:\Nueva carpeta (2)\BPSimplified\bin\Debug\BPSimplified.pdb
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.NeuralDemo.resources
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.Properties.Resources.resources
+F:\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Nueva carpeta (2)\BPSimplified\bin\Debug\BPSimplified.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.exe
+C:\Users\usuario\Desktop\Nueva carpeta (2)\BPSimplified\obj\Debug\BPSimplified.pdb
+C:\Users\usuario\Desktop\pruebas - copia\BPSimplified\bin\Debug\BPSimplified.exe.config
+C:\Users\usuario\Desktop\pruebas - copia\BPSimplified\obj\Debug\BPSimplified.exe
+C:\Users\usuario\Desktop\pruebas - copia\BPSimplified\obj\Debug\BPSimplified.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.exe.config
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\BPSimplified.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\BPSimplified.NeuralDemo.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.Properties.Resources.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\BPSimplified.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.pdb

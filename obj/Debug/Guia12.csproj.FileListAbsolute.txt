@@ -1,0 +1,18 @@
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.exe.config
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\bin\Debug\Guia12.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.NeuralDemo.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.Properties.Resources.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\pruebas - copia\BPSimplified\obj\Debug\Guia12.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\Guia12.exe.config
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\Guia12.exe
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\bin\Debug\Guia12.pdb
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.Properties.Resources.resources
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\Downloads\pruebas - copia\Guia12\Guia12\obj\Debug\Guia12.RedNeuronal.resources
